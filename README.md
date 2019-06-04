@@ -1,7 +1,7 @@
 # Hypersonic
 
 ## Team 
+- [Chelsea Jaculina] (https://github.com/chelseajaculina)
+- Nick Dineros
 
-## Screenshots
-
-## Demo 
+## Video Demo 
